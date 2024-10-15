@@ -1,0 +1,29 @@
+{
+  "name": "hema-react",
+  "version": "1.0.0",
+  "description": "This is the project folder which Hema used to upskill react.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemaSatyanarayana/namaste-react-.git#main"
+  },
+  "author": "Hema Satyanarayana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemaSatyanarayana/namaste-react-/issues"
+  },
+  "homepage": "https://github.com/HemaSatyanarayana/namaste-react-/tree/main#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0"
+  }
+}
